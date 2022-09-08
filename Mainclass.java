@@ -13,8 +13,7 @@ public static void main(String[] args) {
          num = num/10;
      }
     if(org_num==rev){
-        System.out.println(org_num+" palindrome");
-        
+        System.out.println(org_num+" palindrome");  
     }
     else{
      System.out.println(org_num+" not palindrome");
